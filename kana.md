@@ -1,4 +1,4 @@
-Romaji|Hiragana|Katakana
+Romaji  ろおまじ  ローマ字|Hiragana  ひらがな  平仮名|Katakana  片仮名  カタカナ
 ---|---|---
 a|あぁ|アァ
 ka|か|カ
